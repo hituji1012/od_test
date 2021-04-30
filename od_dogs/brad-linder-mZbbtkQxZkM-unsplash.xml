@@ -1,0 +1,26 @@
+<annotation>
+	<folder>od_dogs</folder>
+	<filename>brad-linder-mZbbtkQxZkM-unsplash.jpg</filename>
+	<path>C:\Users\nakata\Python\myfolder\od_test\od_dogs\brad-linder-mZbbtkQxZkM-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>114</ymin>
+			<xmax>640</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

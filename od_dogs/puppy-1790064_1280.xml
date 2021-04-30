@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Downloads</folder>
+	<filename>puppy-1790064_1280.jpg</filename>
+	<path>C:\Users\nakata\Downloads\puppy-1790064_1280.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymin>118</ymin>
+			<xmax>940</xmax>
+			<ymax>1068</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>od_dogs</folder>
+	<filename>jamie-street-s9Tf1eBDFqw-unsplash.jpg</filename>
+	<path>C:\Users\nakata\Python\myfolder\od_test\od_dogs\jamie-street-s9Tf1eBDFqw-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>201</ymin>
+			<xmax>393</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

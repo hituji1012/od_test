@@ -1,0 +1,26 @@
+<annotation>
+	<folder>od_dogs</folder>
+	<filename>anthony-fomin-xNOslF_987U-unsplash.jpg</filename>
+	<path>C:\Users\nakata\Python\myfolder\od_test\od_dogs\anthony-fomin-xNOslF_987U-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>155</ymin>
+			<xmax>426</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

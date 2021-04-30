@@ -1,0 +1,26 @@
+<annotation>
+	<folder>od_dogs</folder>
+	<filename>elizabeth-jamieson--Rp1YLQQu1I-unsplash.jpg</filename>
+	<path>C:\Users\nakata\Python\myfolder\od_test\od_dogs\elizabeth-jamieson--Rp1YLQQu1I-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>40</ymin>
+			<xmax>441</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>

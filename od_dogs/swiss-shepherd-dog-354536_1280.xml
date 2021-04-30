@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Downloads</folder>
+	<filename>swiss-shepherd-dog-354536_1280.jpg</filename>
+	<path>C:\Users\nakata\Downloads\swiss-shepherd-dog-354536_1280.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>761</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>194</ymin>
+			<xmax>896</xmax>
+			<ymax>688</ymax>
+		</bndbox>
+	</object>
+</annotation>

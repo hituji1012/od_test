@@ -1,0 +1,26 @@
+<annotation>
+	<folder>od_dogs</folder>
+	<filename>jeffrey-f-lin-42x-zozCT-Y-unsplash.jpg</filename>
+	<path>C:\Users\nakata\Python\myfolder\od_test\od_dogs\jeffrey-f-lin-42x-zozCT-Y-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>2</ymin>
+			<xmax>427</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>
